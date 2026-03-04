@@ -26,4 +26,3 @@ Automated NIST 800-53 control validation mapped to DISA STIG benchmarks.
 - [Architecture Diagram](docs/diagrams/architecture.md)
 - [Network Diagram](docs/diagrams/network.md)
 - [Demo Script](docs/DEMO.md)
-EOF
